@@ -1,5 +1,4 @@
+requests
 yfinance
 pandas
 numpy
-scipy
-requests
